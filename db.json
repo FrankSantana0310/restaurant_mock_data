@@ -1,0 +1,28 @@
+{
+  "restaurant": [
+    {
+      "PrecioPlatillo": "500",
+      "NombrePlatillo": "Ensalada",
+      "categoria": "Comida",
+      "id": "4"
+    },
+    {
+      "NombrePlatillo": "Pizza",
+      "PrecioPlatillo": "25",
+      "categoria": "postre",
+      "id": "EHY5PlA"
+    },
+    {
+      "NombrePlatillo": "Tortilla",
+      "PrecioPlatillo": "6",
+      "categoria": "postre",
+      "id": "Oy_PVV6"
+    },
+    {
+      "NombrePlatillo": "React Hooks",
+      "PrecioPlatillo": "25",
+      "categoria": "postre",
+      "id": "WS_mX56"
+    }
+  ]
+}
